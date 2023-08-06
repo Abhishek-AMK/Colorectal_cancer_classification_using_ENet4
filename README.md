@@ -1,1 +1,1 @@
-# Colorectal_cancer_classification_using_ENet-B4
+# Colorectal cancer classification using ENet-B4
